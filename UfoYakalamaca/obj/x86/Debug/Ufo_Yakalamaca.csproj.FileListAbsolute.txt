@@ -1,0 +1,23 @@
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\UfoYakalamaca.Form1.resources
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\UfoYakalamaca.Properties.Resources.resources
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\UfoYakalamaca.exe
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\UfoYakalamaca.pdb
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\UfoYakalamaca.exe
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\UfoYakalamaca.pdb
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.exe
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.pdb
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.Form1.resources
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\bin\Debug\UfoYakalamaca.exe
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\bin\Debug\UfoYakalamaca.pdb
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.Properties.Resources.resources
+D:\PROJE\UFO YAKALAMA V.1.1\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.exe
+D:\PROJE\UFO YAKALAMA V.1.1\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.pdb
+D:\PROJE\UFO YAKALAMA V.1.1\UfoYakalamaca\obj\x86\Debug\Ufo_Yakalamaca.csprojResolveAssemblyReference.cache
+D:\PROJE\UFO YAKALAMA V.1.1\UfoYakalamaca\obj\x86\Debug\UfoYakalamaca.Form1.resources
+D:\PROJE\UFO YAKALAMA V.1.1\UfoYakalamaca\obj\x86\Debug\Ufo_Yakalamaca.csproj.GenerateResource.Cache

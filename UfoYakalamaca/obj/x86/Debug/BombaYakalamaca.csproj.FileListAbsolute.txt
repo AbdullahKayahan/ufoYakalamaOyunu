@@ -1,0 +1,36 @@
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.exe
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.pdb
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Form1.resources
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Properties.Resources.resources
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.exe
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.pdb
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.exe
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.pdb
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.exe
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.pdb
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Form1.resources
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Properties.Resources.resources
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Erkan\Documents\Visual Studio 2010\Projects\2010Bahar\bilg2B\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.exe
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.pdb
+I:\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.exe
+I:\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.pdb
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Form1.resources
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Properties.Resources.resources
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.exe
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.pdb
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.exe
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\bin\Debug\BombaYakalamaca.pdb
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\BombaYakalamaca.Properties.Resources.resources
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KaYaHaN\Desktop\8_BombaYakalamaca\BombaYakalamaca\obj\x86\Debug\UfoYakalamaca.Form1.resources
